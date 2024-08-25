@@ -3,7 +3,7 @@
 const Navbar = () => {
   return (
     <nav className="py-4 text-white">
-      <div className="md:container mx-auto flex items-center justify-between">
+      <div className="container mx-auto flex items-center justify-between">
           <div className="logo">
             <img src="" alt="site logo" />
             <h1 className="text-2xl">logo</h1>

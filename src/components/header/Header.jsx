@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
         <Navbar/>
-        <div className="md:container mx-auto flex items-center h-full">
+        <div className="container mx-auto flex items-center h-full">
          <HeadingIntor text='Sample Heading Text'/>
         </div>
     </header>
